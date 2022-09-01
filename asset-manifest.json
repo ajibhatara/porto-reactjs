@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/porto-reactjs/static/css/main.1fe523dd.css",
-    "main.js": "/porto-reactjs/static/js/main.9b145f01.js",
+    "main.js": "/porto-reactjs/static/js/main.3c0ea759.js",
     "static/js/787.a479362b.chunk.js": "/porto-reactjs/static/js/787.a479362b.chunk.js",
     "static/media/splitimg.jpg": "/porto-reactjs/static/media/splitimg.4f49cec0d9a4c13d08ba.jpg",
     "static/media/bgimg.jpg": "/porto-reactjs/static/media/bgimg.be2cb37ef4f8099dd12e.jpg",
+    "static/media/logo.png": "/porto-reactjs/static/media/logo.b57716e0059f3857c2b1.png",
     "static/media/wave.svg": "/porto-reactjs/static/media/wave.4bce0f23c4b292009d49.svg",
     "index.html": "/porto-reactjs/index.html",
     "main.1fe523dd.css.map": "/porto-reactjs/static/css/main.1fe523dd.css.map",
-    "main.9b145f01.js.map": "/porto-reactjs/static/js/main.9b145f01.js.map",
+    "main.3c0ea759.js.map": "/porto-reactjs/static/js/main.3c0ea759.js.map",
     "787.a479362b.chunk.js.map": "/porto-reactjs/static/js/787.a479362b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1fe523dd.css",
-    "static/js/main.9b145f01.js"
+    "static/js/main.3c0ea759.js"
   ]
 }
